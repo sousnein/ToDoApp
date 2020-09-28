@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    //Colors in my app
+    <color name="lightGrey">#C1C1C1</color>
+    <color name="yellow">#ffee00</color>
+    <color name="grey">#AFAFAF</color>
+    <color name="blue">#425195</color>
+    <color name="red">#d34157</color>
+    <color name="pink">#f883b8</color>
+    <color name="skinColor">#ffe4d4</color>
+    <color name="skinColorButtonsText">#fab992</color>
+    <color name="BlueForButtonsText">#d9dcea</color>
+    <color name="redForText">#d54e63</color>
+    <color name="redForButtons">#f6d9dd</color>
+    <color name="pinkForButtonsText">#f996c3</color>
+    <color name="pinkForBackground">#fddaea</color>
+    <color name="white">#fff</color>
+
+</resources>
